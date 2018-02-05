@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+
+    <!-- QUESTION ONE -->
+    <string name="questionOneTitle">Question One</string>
+    <string name="questionOneText">Write 2 with exponential 4 as a repeated multiplication.</string>
+    <string name="questionOneAnswerA">2x4</string>
+    <string name="questionOneAnswerB">4x4</string>
+    <string name="questionOneAnswerC">2x2x2x2</string>
+    <string name="questionOneAnswerD">2x2x2x2x2</string>
+
+    <!-- QUESTION TWO -->
+    <string name="questionTwoTitle">Question Two</string>
+    <string name="questionTwoText">What are the Cartesian Coordinates of the point C.</string>
+    <string name="questionTwoAnswerA">(3,6)</string>
+    <string name="questionTwoAnswerB">(6,3)</string>
+    <string name="questionTwoAnswerC">(5,3)</string>
+    <string name="questionTwoAnswerD">(6,4)</string>
+
+    <!-- QUESTION THREE -->
+    <string name="questionThreeTitle">Question Three</string>
+    <string name="questionThreeText">Which one of the following four decimal numbers is the second least?</string>
+    <string name="questionThreeAnswerA">96.814</string>
+    <string name="questionThreeAnswerB">914.68</string>
+    <string name="questionThreeAnswerC">98.614</string>
+    <string name="questionThreeAnswerD">916.108</string>
+
+    <!-- QUESTION FOUR -->
+    <string name="questionFourTitle">Question Four</string>
+    <string name="questionFourText">Estimate the value of 6.9 x 12.1 by using rounding to the nearest whole number.</string>
+    <string name="questionFourAnswerA">72</string>
+    <string name="questionFourAnswerB">84</string>
+    <string name="questionFourAnswerC">87</string>
+    <string name="questionFourAnswerD">91</string>
+
+    <!-- QUESTION FIVE -->
+    <string name="questionFiveTitle">Question Five</string>
+    <string name="questionFiveText">Represent the sum 0.44 + 0.325 = 0.765 with fractions.</string>
+    <string name="questionFiveAnswerA">11/25 + 13/40 = 24/65</string>
+    <string name="questionFiveAnswerB">11/25 + 13/40 = 153/200</string>
+    <string name="questionFiveAnswerC">11/25 + 13/20 = 153/200</string>
+    <string name="questionFiveAnswerD">1/44 + 3/25 = 7/65</string>
+
+    <!-- QUESTION SIX -->
+    <string name="questionSixTitle">Question Six</string>
+    <string name="questionSixText">The diagram shows a multiplication stacker. Start in the bottom row. The numbers in the second row are found by multiplying together the two numbers below. Do the same for the other rows. What number should replace the letter B?.</string>
+    <string name="questionSixAnswerA">24</string>
+    <string name="questionSixAnswerB">90</string>
+    <string name="questionSixAnswerC">125</string>
+    <string name="questionSixAnswerD">135</string>
+
+    <!-- QUESTION SEVEN -->
+    <string name="questionSevenTitle">Question Seven</string>
+    <string name="questionSevenText">How many seconds in 33 minutes and 20 seconds?</string>
+    <string name="questionSevenAnswerA">218 seconds</string>
+    <string name="questionSevenAnswerB">1990 seconds</string>
+    <string name="questionSevenAnswerC">2000 seconds</string>
+    <string name="questionSevenAnswerD">2010 seconds</string>
+
+    <!-- QUESTION EIGHT -->
+    <string name="questionEightTitle">Question Eight</string>
+    <string name="questionEightText">Use long multiplication to calculate 384 x 367?</string>
+    <string name="questionEightAnswerA">140, 868</string>
+    <string name="questionEightAnswerB">140, 928</string>
+    <string name="questionEightAnswerC">141, 928</string>
+    <string name="questionEightAnswerD">292, 992</string>
+
+    <!-- QUESTION NINE -->
+    <string name="questionNineTitle">Question Nine</string>
+    <string name="questionNineText">Daisy scored 17 out of 20 in a test. What percent is that?</string>
+    <string name="questionNineAnswerA">17%</string>
+    <string name="questionNineAnswerB">68%</string>
+    <string name="questionNineAnswerC">84%</string>
+    <string name="questionNineAnswerD">85%</string>
+
+    <!-- QUESTION TEN -->
+    <string name="questionTenTitle">Question Ten</string>
+    <string name="questionTenText">Lydia took the following numbers of shot for each of the nine holes at her local golf course: 5, 4, 3, 6, 5, 4, 6, 7, 5.</string>
+    <string name="questionTenAnswerA">4.5</string>
+    <string name="questionTenAnswerB">5</string>
+    <string name="questionTenAnswerC">5.5</string>
+    <string name="questionTenAnswerD">6</string>
+
+    <!-- QUESTION TEN -->
+    <string name="scoreTitle">Score</string>
+    <string name="scoreText">Your score was: </string>
+</resources>
